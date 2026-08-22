@@ -4,7 +4,7 @@ A Python command-line tool that analyzes DNA sequences — from basic compositio
 
 ## Why I built this
 
-I'm a class 11 student aiming for a future in bioinformatics, and this was my first project combining biology and programming. I wanted to build something that goes beyond "hello world" and actually mirrors the real DNA → RNA → Protein pipeline (the central dogma of molecular biology) used in real bioinformatics work.
+I am student currently in grade 11, and this was my first project combining biology and programming. I wanted to build something that really puts me up to the test,  challenges me and actually mirrors the real DNA → RNA → Protein pipeline (the central dogma of molecular biology) used in real bioinformatics work.
 
 ## Features
 
@@ -23,6 +23,7 @@ I'm a class 11 student aiming for a future in bioinformatics, and this was my fi
 
 Running the analyzer on the human insulin gene (NCBI accession `NM_000207`) produces a full report:
 
+   ![Example output](example_output.png)
 ```
 DNA SEQUENCE ANALYSIS REPORT
 Sequence: AGCCCTCCAGGACAGGCTGCATCAGAAGAGG...
