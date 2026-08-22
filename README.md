@@ -40,7 +40,7 @@ Protein (translated): SPPGQAASEEAIKQITVLLPWPCGASCPCWRCWPSGDLTQPQPL
 
 The tool is also capable of generating a bar chat of the nucleotide frequency using MatPlotLib: 
 
-![Nucleotide Frequency Chart](plot.example.png)
+![Nucleotide Frequency Chart](plot_example.png)
 
 ## How to run it
 
