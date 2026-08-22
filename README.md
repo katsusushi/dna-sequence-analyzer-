@@ -4,7 +4,7 @@ A Python command-line tool that analyzes DNA sequences — from basic compositio
 
 ## Why I built this
 
-I'm a class 11 student aiming for a future in bioinformatics, and this was my first project combining biology and programming. I wanted to build something that goes beyond "hello world" and actually mirrors the real DNA → RNA → Protein pipeline (the central dogma of molecular biology) used in real bioinformatics work.
+I am a student currently in grade 11 aiming for a future career in bioinformatics, and this was my first project combining both, biology and programming. I wanted to build something that really put me up to the test, challenged me and actually mirrored the real DNA → RNA → Protein Pipeline (central dogma of molecular biology) using in real bioinformatics work.
 
 ## Features
 
@@ -38,9 +38,9 @@ Protein (translated): SPPGQAASEEAIKQITVLLPWPCGASCPCWRCWPSGDLTQPQPL
 
 ## Visualization
 
-The tool also generates a bar chart of nucleotide frequency using matplotlib:
+The tool is also capable of generating a bar chat of the nucleotide frequency using MatPlotLib: 
 
-![Nucleotide frequency chart](nucleotide_chart.png)
+![Nucleotide Frequency Chart](plot.example.png)
 
 ## How to run it
 
@@ -64,7 +64,7 @@ analyze("ATGGCCATTGTAATGGGCCGCTGA")
 
 ## What I learned
 
-This project took me through the full pipeline of real bioinformatics work — not just writing code, but debugging real-world issues like SSL certificate errors when connecting to NCBI, handling incomplete codons at sequence boundaries, and structuring a growing codebase cleanly. It deepened my understanding of both molecular biology fundamentals and practical Python programming.
+This project helped me gain some real knowledge and taught me through a lot of trial and errors, like the full pipeline of real bioinformatics work and not just writing code, rather debugging real world issues like the SSL certificate errors when connecting to NCBI, handling incomplete condons at sequence boundaries, and structuring a growing codebase cleanly and neatly. It also especially deepened my understanding of both molecular biology fundamentals and practical Python programming.
 
 ## Next steps
 
