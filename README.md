@@ -8,16 +8,16 @@ I am a student currently in grade 11 aiming for a future career in bioinformatic
 
 ## Features
 
-- **Sequence cleaning & validation** — normalizes input and checks for valid DNA bases (A, T, G, C)
-- **Nucleotide counting** — counts occurrences of each base
-- **GC content calculation** — a measure of DNA stability, commonly used in molecular biology
-- **Reverse complement generation** — models the antiparallel double-strand structure of DNA
-- **Transcription** — converts DNA to RNA (T → U)
-- **Translation** — converts RNA to a protein sequence using a full 64-codon lookup table, including stop-codon handling
-- **Multiple reading frame translation** — translates a sequence starting from all 3 possible reading frames
-- **FASTA file parsing** — reads standard-format `.fasta` sequence files, including multi-line sequences
-- **Live NCBI integration** — fetches real gene sequences directly from NCBI's GenBank database using Biopython's Entrez module
-- **Visualization** — generates a bar chart of nucleotide frequency using matplotlib
+- **Sequence cleaning & validation** - normalizes input and checks for valid DNA bases (A, T, G, C)
+- **Nucleotide counting** - counts occurrences of each base
+- **GC content calculation** - a measure of DNA stability, commonly used in molecular biology
+- **Reverse complement generation** - models the antiparallel double-strand structure of DNA
+- **Transcription** - converts DNA to RNA (T → U)
+- **Translation** - converts RNA to a protein sequence using a full 64-codon lookup table, including stop-codon handling
+- **Multiple reading frame translation** - translates a sequence starting from all 3 possible reading frames
+- **FASTA file parsing** - reads standard-format `.fasta` sequence files, including multi-line sequences
+- **Live NCBI integration** - fetches real gene sequences directly from NCBI's GenBank database using Biopython's Entrez module
+- **Visualization** - generates a bar chart of nucleotide frequency using matplotlib
 
 ## Example output
 
