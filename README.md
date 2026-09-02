@@ -1,6 +1,6 @@
 # DNA Sequence Analyzer
 
-A Python command-line tool that analyzes DNA sequences — from basic composition statistics to fetching and processing real genes from NCBI's public database.
+A Python tool that analyzes DNA sequences, from basic composition statistics to fetching and processing real genes from NCBI's public database.
 
 ## Why I built this
 
